@@ -1,0 +1,4 @@
+
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(åß·Ýûÿÿÿÿ8Ô Ÿ„Ö,
+“squid:S1319"rThe type of the "options" object should be an interface such as "List" rather than the implementation "ArrayList".(Ö¶Ÿ•ýÿÿÿÿ8Ô Ÿ„Ö,
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8×±ƒ„Ö,

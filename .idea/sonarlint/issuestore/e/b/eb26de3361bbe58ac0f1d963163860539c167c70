@@ -1,0 +1,7 @@
+
+asquid:UselessImportCheck"3Remove this unused import 'android.widget.Spinner'.(¸£ÃØüÿÿÿÿ8íå‘…Ö,
+fsquid:UselessImportCheck"8Remove this unused import 'android.widget.ArrayAdapter'.( €ŠÑÿÿÿÿÿ8íå‘…Ö,
+3squid:S2176"Rename this class.(Â×žÖúÿÿÿÿ8Ù¡Ë„Ö,
+Osquid:S1068".Remove this unused "optionSize" private field.(º§žüýÿÿÿÿ8—…§„Ö,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üø»¤8Ä­Ñ…Ö,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ä­Ñ…Ö,

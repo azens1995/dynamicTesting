@@ -58,13 +58,13 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.ViewHolder> {
             }
         }else if (data.get(i).getType().equalsIgnoreCase("select")){
             viewHolder.checkBox.setVisibility(View.VISIBLE);
-            for (int item = 0; item <= data.get(i).getType().length(); item++){
-                CheckBox checkBox = new CheckBox(context);
-                checkBox.setOnCheckedChangeListener((CompoundButton.OnCheckedChangeListener) context);
-                checkBox.setId(item);
-                checkBox.setText(data.get(i).getOptions().get(item));
+//            for (int item = 0; item <= data.get(i).getType().length(); item++){
+//                CheckBox checkBox = new CheckBox(context);
+//                checkBox.setOnCheckedChangeListener((CompoundButton.OnCheckedChangeListener) context);
+//                checkBox.setId(item);
+//                checkBox.setText(data.get(i).getOptions().get(item));
 
-            }
+//            }
 
         }
     }
